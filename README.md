@@ -28,7 +28,7 @@ Si vous souhaitez utiliser l'application sous forme d'exécutable, vous n'avez p
 
 Si vous ne souhaitez pas installer Python, vous pouvez utiliser l'exécutable fourni avec cette application. Suivez les étapes suivantes :
 
-1. Téléchargez le fichier exécutable **Organize-Downloads.exe** depuis le [lien de téléchargement](#).
+1. Téléchargez le fichier exécutable **Organize-Downloads.exe** depuis le [https://github.com/NdiayeDoucoure/organize-downloads/releases/download/v1/Organize.Downloads.exe](#).
 2. Double-cliquez sur le fichier **Organize-Downloads.exe** pour lancer l'application.
 3. Suivez les instructions à l'écran pour organiser votre dossier de téléchargements.
 
